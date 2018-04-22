@@ -1,0 +1,10 @@
+/Users/i317994/github/oop/bin/Debug/netcoreapp2.0/oop.deps.json
+/Users/i317994/github/oop/bin/Debug/netcoreapp2.0/oop.runtimeconfig.json
+/Users/i317994/github/oop/bin/Debug/netcoreapp2.0/oop.runtimeconfig.dev.json
+/Users/i317994/github/oop/bin/Debug/netcoreapp2.0/oop.dll
+/Users/i317994/github/oop/bin/Debug/netcoreapp2.0/oop.pdb
+/Users/i317994/github/oop/obj/Debug/netcoreapp2.0/oop.csproj.CoreCompileInputs.cache
+/Users/i317994/github/oop/obj/Debug/netcoreapp2.0/oop.AssemblyInfoInputs.cache
+/Users/i317994/github/oop/obj/Debug/netcoreapp2.0/oop.AssemblyInfo.cs
+/Users/i317994/github/oop/obj/Debug/netcoreapp2.0/oop.dll
+/Users/i317994/github/oop/obj/Debug/netcoreapp2.0/oop.pdb
