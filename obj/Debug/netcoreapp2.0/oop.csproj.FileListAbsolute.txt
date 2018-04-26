@@ -8,3 +8,13 @@
 /Users/i317994/github/oop/obj/Debug/netcoreapp2.0/oop.AssemblyInfo.cs
 /Users/i317994/github/oop/obj/Debug/netcoreapp2.0/oop.dll
 /Users/i317994/github/oop/obj/Debug/netcoreapp2.0/oop.pdb
+/Users/luojun/github/oop/bin/Debug/netcoreapp2.0/oop.deps.json
+/Users/luojun/github/oop/bin/Debug/netcoreapp2.0/oop.runtimeconfig.json
+/Users/luojun/github/oop/bin/Debug/netcoreapp2.0/oop.runtimeconfig.dev.json
+/Users/luojun/github/oop/bin/Debug/netcoreapp2.0/oop.dll
+/Users/luojun/github/oop/bin/Debug/netcoreapp2.0/oop.pdb
+/Users/luojun/github/oop/obj/Debug/netcoreapp2.0/oop.csproj.CoreCompileInputs.cache
+/Users/luojun/github/oop/obj/Debug/netcoreapp2.0/oop.AssemblyInfoInputs.cache
+/Users/luojun/github/oop/obj/Debug/netcoreapp2.0/oop.AssemblyInfo.cs
+/Users/luojun/github/oop/obj/Debug/netcoreapp2.0/oop.dll
+/Users/luojun/github/oop/obj/Debug/netcoreapp2.0/oop.pdb

@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/i317994/.nuget/packages/": {},
+    "/Users/luojun/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/i317994/github/oop/oop.csproj",
+      "projectUniqueName": "/Users/luojun/github/oop/oop.csproj",
       "projectName": "oop",
-      "projectPath": "/Users/i317994/github/oop/oop.csproj",
-      "packagesPath": "/Users/i317994/.nuget/packages/",
-      "outputPath": "/Users/i317994/github/oop/obj/",
+      "projectPath": "/Users/luojun/github/oop/oop.csproj",
+      "packagesPath": "/Users/luojun/.nuget/packages/",
+      "outputPath": "/Users/luojun/github/oop/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/i317994/.nuget/NuGet/NuGet.Config"
+        "/Users/luojun/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
