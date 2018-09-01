@@ -6,9 +6,11 @@ namespace factory
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             var devManager = new DevelopmentManager();
             devManager.TakeInterview();
+
+            var communityManager = new CommunityManager();
+            communityManager.TakeInterview();
         }
     }
 }

@@ -8,7 +8,7 @@ namespace observer
     {
         private float temperature;
         private float humidity;
-
+        
         private ISubject weatherData;
 
         public CurrentConditionDisplay(ISubject weatherData)
