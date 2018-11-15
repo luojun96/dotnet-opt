@@ -1,0 +1,42 @@
+@startuml
+abstract class PizzaStore {
+    +CreatPizza()
+    +OrderPizza()
+}
+
+class NYPizzaStore {
+    +CreatePizza()
+}
+
+class ChicagoPizzaStore {
+    +CreatePizza()
+}
+
+NYPizzaStore --|> PizzaStore
+ChicagoPizzaStore --|> PizzaStore
+
+abstract class Pizza {
+     +prepare()
+     +bake()
+     +cut()
+     +box()
+ }
+
+ class NYCheesePizza
+ class NYClamPizza
+
+ NYCheesePizza --|> Pizza
+ NYClamPizza --|> Pizza
+
+ class ChicagoCheesePizza
+ class ChicagoClamPizza
+
+ ChicagoCheesePizza --|> Pizza
+ ChicagoClamPizza --|> Pizza
+
+ NYPizzaStore --> NYCheesePizza
+ NYPizzaStore --> NYClamPizza
+ 
+ ChicagoPizzaStore --> ChicagoCheesePizza
+ ChicagoPizzaStore --> ChicagoClamPizza
+@enduml

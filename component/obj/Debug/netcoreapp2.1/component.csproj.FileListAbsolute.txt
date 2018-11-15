@@ -1,0 +1,11 @@
+/Users/luojun/git/oop/component/bin/Debug/netcoreapp2.1/component.deps.json
+/Users/luojun/git/oop/component/bin/Debug/netcoreapp2.1/component.runtimeconfig.json
+/Users/luojun/git/oop/component/bin/Debug/netcoreapp2.1/component.runtimeconfig.dev.json
+/Users/luojun/git/oop/component/bin/Debug/netcoreapp2.1/component.dll
+/Users/luojun/git/oop/component/bin/Debug/netcoreapp2.1/component.pdb
+/Users/luojun/git/oop/component/obj/Debug/netcoreapp2.1/component.csprojAssemblyReference.cache
+/Users/luojun/git/oop/component/obj/Debug/netcoreapp2.1/component.csproj.CoreCompileInputs.cache
+/Users/luojun/git/oop/component/obj/Debug/netcoreapp2.1/component.AssemblyInfoInputs.cache
+/Users/luojun/git/oop/component/obj/Debug/netcoreapp2.1/component.AssemblyInfo.cs
+/Users/luojun/git/oop/component/obj/Debug/netcoreapp2.1/component.dll
+/Users/luojun/git/oop/component/obj/Debug/netcoreapp2.1/component.pdb

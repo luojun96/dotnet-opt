@@ -1,0 +1,39 @@
+@startuml
+abstract class AbstractFactory{
+    +CreateProductA()
+    +CreateProductB()
+}
+
+class ConcreteFactory1{
+    +CreateProductA()
+    +CreateProductB()
+}
+
+class ConcreteFactory2{
+    +CreateProductA()
+    +CreateProductB()
+}
+
+ConcreteFactory1 --|> AbstractFactory
+ConcreteFactory2 --|> AbstractFactory
+
+Abstract class AbstractProductA
+Abstract class AbstractProductB
+
+class ProductA1
+class ProductA2
+class ProductB1
+class ProductB2
+
+ProductA1 --|> AbstractProductA
+ProductA2 --|> AbstractProductA
+
+ProductB1 --|> AbstractProductB
+ProductB2 --|> AbstractProductB
+
+ConcreteFactory1 --> ProductA1
+ConcreteFactory1 --> ProductB1
+
+ConcreteFactory2 --> ProductA2
+ConcreteFactory2 --> ProductB2
+@enduml
