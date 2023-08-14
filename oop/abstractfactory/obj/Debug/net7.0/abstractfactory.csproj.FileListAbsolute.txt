@@ -1,0 +1,14 @@
+/Users/luojun/git/dotnet/dotnet-opt/oop/abstractfactory/bin/Debug/net7.0/abstractfactory
+/Users/luojun/git/dotnet/dotnet-opt/oop/abstractfactory/bin/Debug/net7.0/abstractfactory.deps.json
+/Users/luojun/git/dotnet/dotnet-opt/oop/abstractfactory/bin/Debug/net7.0/abstractfactory.runtimeconfig.json
+/Users/luojun/git/dotnet/dotnet-opt/oop/abstractfactory/bin/Debug/net7.0/abstractfactory.dll
+/Users/luojun/git/dotnet/dotnet-opt/oop/abstractfactory/bin/Debug/net7.0/abstractfactory.pdb
+/Users/luojun/git/dotnet/dotnet-opt/oop/abstractfactory/obj/Debug/net7.0/abstractfactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luojun/git/dotnet/dotnet-opt/oop/abstractfactory/obj/Debug/net7.0/abstractfactory.AssemblyInfoInputs.cache
+/Users/luojun/git/dotnet/dotnet-opt/oop/abstractfactory/obj/Debug/net7.0/abstractfactory.AssemblyInfo.cs
+/Users/luojun/git/dotnet/dotnet-opt/oop/abstractfactory/obj/Debug/net7.0/abstractfactory.csproj.CoreCompileInputs.cache
+/Users/luojun/git/dotnet/dotnet-opt/oop/abstractfactory/obj/Debug/net7.0/abstractfactory.dll
+/Users/luojun/git/dotnet/dotnet-opt/oop/abstractfactory/obj/Debug/net7.0/refint/abstractfactory.dll
+/Users/luojun/git/dotnet/dotnet-opt/oop/abstractfactory/obj/Debug/net7.0/abstractfactory.pdb
+/Users/luojun/git/dotnet/dotnet-opt/oop/abstractfactory/obj/Debug/net7.0/abstractfactory.genruntimeconfig.cache
+/Users/luojun/git/dotnet/dotnet-opt/oop/abstractfactory/obj/Debug/net7.0/ref/abstractfactory.dll
