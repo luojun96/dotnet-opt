@@ -13,14 +13,14 @@ namespace templatesort
             this.weight = weight;
         }
 
-        public int CompareTo(object obj)
+        public int CompareTo(object? obj)
         {
-            Duck otherDuck = (Duck)obj;
-            if(this.weight < otherDuck.weight)
+            Duck? otherDuck = (Duck?)obj;
+            if(this.weight < otherDuck?.weight)
             {
                 return -1;
             }
-            else if (this.weight == otherDuck.weight)
+            else if (this.weight == otherDuck?.weight)
             {
                 return 0;
             }
