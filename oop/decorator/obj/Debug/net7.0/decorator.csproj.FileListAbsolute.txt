@@ -1,0 +1,14 @@
+/Users/luojun/git/dotnet/dotnet-opt/oop/decorator/obj/Debug/net7.0/decorator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luojun/git/dotnet/dotnet-opt/oop/decorator/obj/Debug/net7.0/decorator.AssemblyInfoInputs.cache
+/Users/luojun/git/dotnet/dotnet-opt/oop/decorator/obj/Debug/net7.0/decorator.AssemblyInfo.cs
+/Users/luojun/git/dotnet/dotnet-opt/oop/decorator/obj/Debug/net7.0/decorator.csproj.CoreCompileInputs.cache
+/Users/luojun/git/dotnet/dotnet-opt/oop/decorator/bin/Debug/net7.0/decorator
+/Users/luojun/git/dotnet/dotnet-opt/oop/decorator/bin/Debug/net7.0/decorator.deps.json
+/Users/luojun/git/dotnet/dotnet-opt/oop/decorator/bin/Debug/net7.0/decorator.runtimeconfig.json
+/Users/luojun/git/dotnet/dotnet-opt/oop/decorator/bin/Debug/net7.0/decorator.dll
+/Users/luojun/git/dotnet/dotnet-opt/oop/decorator/bin/Debug/net7.0/decorator.pdb
+/Users/luojun/git/dotnet/dotnet-opt/oop/decorator/obj/Debug/net7.0/decorator.dll
+/Users/luojun/git/dotnet/dotnet-opt/oop/decorator/obj/Debug/net7.0/refint/decorator.dll
+/Users/luojun/git/dotnet/dotnet-opt/oop/decorator/obj/Debug/net7.0/decorator.pdb
+/Users/luojun/git/dotnet/dotnet-opt/oop/decorator/obj/Debug/net7.0/decorator.genruntimeconfig.cache
+/Users/luojun/git/dotnet/dotnet-opt/oop/decorator/obj/Debug/net7.0/ref/decorator.dll

@@ -1,6 +1,6 @@
 namespace decorator
 {
-    abstract class Beverage
+    public abstract class Beverage
     {
         protected string description = "Unknow Beverage";
         public virtual string GetDescription()
