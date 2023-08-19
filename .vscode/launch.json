@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/oop/abstractfactory/bin/Debug/net7.0/abstractfactory.dll",
+            "program": "${workspaceFolder}/oop/template/bin/Debug/net7.0/template.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/oop/abstractfactory",
+            "cwd": "${workspaceFolder}/oop/template",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
