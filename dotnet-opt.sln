@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "oop", "oop", "{8B70F19A-0FF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstractfactory", "oop\abstractfactory\abstractfactory.csproj", "{CE0ED5FA-8715-43B1-8E47-AB072ECD7D37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "command", "oop\command\command.csproj", "{02700C4E-6D3B-4B2D-8F93-916969F35C95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +22,13 @@ Global
 		{CE0ED5FA-8715-43B1-8E47-AB072ECD7D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE0ED5FA-8715-43B1-8E47-AB072ECD7D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE0ED5FA-8715-43B1-8E47-AB072ECD7D37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02700C4E-6D3B-4B2D-8F93-916969F35C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02700C4E-6D3B-4B2D-8F93-916969F35C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02700C4E-6D3B-4B2D-8F93-916969F35C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02700C4E-6D3B-4B2D-8F93-916969F35C95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CE0ED5FA-8715-43B1-8E47-AB072ECD7D37} = {8B70F19A-0FF4-4F32-AC87-09E6B833A5F4}
+		{02700C4E-6D3B-4B2D-8F93-916969F35C95} = {8B70F19A-0FF4-4F32-AC87-09E6B833A5F4}
 	EndGlobalSection
 EndGlobal

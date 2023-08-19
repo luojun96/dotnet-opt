@@ -8,19 +8,19 @@ namespace command
             this.commands = commands;
         }
 
-        public void execute()
+        public void Execute()
         {
             foreach (var item in commands)
             {
-                item.execute();
+                item.Execute();
             }
         }
 
-        public void undo()
+        public void Undo()
         {
             foreach (var item in commands)
             {
-                item.undo();
+                item.Undo();
             }
         }
     }

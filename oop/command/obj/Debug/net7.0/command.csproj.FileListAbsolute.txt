@@ -1,0 +1,14 @@
+/Users/luojun/git/dotnet/dotnet-opt/oop/command/obj/Debug/net7.0/command.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luojun/git/dotnet/dotnet-opt/oop/command/obj/Debug/net7.0/command.AssemblyInfoInputs.cache
+/Users/luojun/git/dotnet/dotnet-opt/oop/command/obj/Debug/net7.0/command.AssemblyInfo.cs
+/Users/luojun/git/dotnet/dotnet-opt/oop/command/obj/Debug/net7.0/command.csproj.CoreCompileInputs.cache
+/Users/luojun/git/dotnet/dotnet-opt/oop/command/bin/Debug/net7.0/command
+/Users/luojun/git/dotnet/dotnet-opt/oop/command/bin/Debug/net7.0/command.deps.json
+/Users/luojun/git/dotnet/dotnet-opt/oop/command/bin/Debug/net7.0/command.runtimeconfig.json
+/Users/luojun/git/dotnet/dotnet-opt/oop/command/bin/Debug/net7.0/command.dll
+/Users/luojun/git/dotnet/dotnet-opt/oop/command/bin/Debug/net7.0/command.pdb
+/Users/luojun/git/dotnet/dotnet-opt/oop/command/obj/Debug/net7.0/command.dll
+/Users/luojun/git/dotnet/dotnet-opt/oop/command/obj/Debug/net7.0/refint/command.dll
+/Users/luojun/git/dotnet/dotnet-opt/oop/command/obj/Debug/net7.0/command.pdb
+/Users/luojun/git/dotnet/dotnet-opt/oop/command/obj/Debug/net7.0/command.genruntimeconfig.cache
+/Users/luojun/git/dotnet/dotnet-opt/oop/command/obj/Debug/net7.0/ref/command.dll
