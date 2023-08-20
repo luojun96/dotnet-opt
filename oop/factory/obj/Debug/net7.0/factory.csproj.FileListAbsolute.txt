@@ -1,0 +1,14 @@
+/Users/luojun/git/dotnet/dotnet-opt/oop/factory/bin/Debug/net7.0/factory
+/Users/luojun/git/dotnet/dotnet-opt/oop/factory/bin/Debug/net7.0/factory.deps.json
+/Users/luojun/git/dotnet/dotnet-opt/oop/factory/bin/Debug/net7.0/factory.runtimeconfig.json
+/Users/luojun/git/dotnet/dotnet-opt/oop/factory/bin/Debug/net7.0/factory.dll
+/Users/luojun/git/dotnet/dotnet-opt/oop/factory/bin/Debug/net7.0/factory.pdb
+/Users/luojun/git/dotnet/dotnet-opt/oop/factory/obj/Debug/net7.0/factory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luojun/git/dotnet/dotnet-opt/oop/factory/obj/Debug/net7.0/factory.AssemblyInfoInputs.cache
+/Users/luojun/git/dotnet/dotnet-opt/oop/factory/obj/Debug/net7.0/factory.AssemblyInfo.cs
+/Users/luojun/git/dotnet/dotnet-opt/oop/factory/obj/Debug/net7.0/factory.csproj.CoreCompileInputs.cache
+/Users/luojun/git/dotnet/dotnet-opt/oop/factory/obj/Debug/net7.0/factory.dll
+/Users/luojun/git/dotnet/dotnet-opt/oop/factory/obj/Debug/net7.0/refint/factory.dll
+/Users/luojun/git/dotnet/dotnet-opt/oop/factory/obj/Debug/net7.0/factory.pdb
+/Users/luojun/git/dotnet/dotnet-opt/oop/factory/obj/Debug/net7.0/factory.genruntimeconfig.cache
+/Users/luojun/git/dotnet/dotnet-opt/oop/factory/obj/Debug/net7.0/ref/factory.dll

@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿// See https://aka.ms/new-console-template for more information
 namespace factory
 {
     class Program
@@ -12,5 +11,5 @@ namespace factory
             var communityManager = new CommunityManager();
             communityManager.TakeInterview();
         }
-    }
+    } 
 }
